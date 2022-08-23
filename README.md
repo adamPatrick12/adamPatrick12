@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Adam</h1>
-<h3 align="left">A passionate Game Dev student at Wilfrid Laurier University</h3>
+<h3 align="left">Software Dev @GoBolt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adampatrick12&label=Profile%20views&color=0e75b6&style=flat" alt="adampatrick12" /> </p>
-
-- 🌱 I’m currently looking for **apprenticeships/internship/new grad roles**
 
 - 👨‍💻 All of my projects are available at [apatrick.me](https://apatrick.me/)
 
