@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adampatrick12&label=Profile%20views&color=0e75b6&style=flat" alt="adampatrick12" /> </p>
 
-- ⚡️ Software Dev at [GoBolt](https://www.gobolt.com/) 
+- ⚡️ Software Dev
 
 - 👨‍💻 All of my projects are available at [apatrick.me](https://www.gobolt.com/)
 
