@@ -5,7 +5,7 @@
 
 - ⚡️ Software Dev
 
-- 👨‍💻 All of my projects are available at [apatrick.me]([https://www.gobolt.com/](https://apatrick.me/))
+- 👨‍💻 All of my projects are available at [apatrick.me](https://apatrick.me/)
 
 - 📫 How to reach me **adampatrick416@gmail.com**
 
